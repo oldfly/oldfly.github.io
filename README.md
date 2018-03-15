@@ -1,8 +1,6 @@
-## Welcome to the Marvin-AI's Homepage!
+## Review
 
-You can use the [editor on GitHub](https://github.com/oldfly/oldfly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Marvin** is an open source Artificial Intelligence platform that focus on help data science team members, in an easy way, to deliver complex solutions supported by a high-scale, low-latency, language agnostic and standardized architecture while simplifying the process of exploitation and modeling.
 
 ### Markdown
 
