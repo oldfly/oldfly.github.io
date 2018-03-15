@@ -2,3 +2,7 @@ theme: jekyll-theme-architect
 title: Welcome to the Marvin-AI's Homepage!
 description: Marvin rocks!
 show_downloads: true
+
+github:
+  toolbox_url: https://github.com/marvin-ai/marvin-python-toolbox/archive/master.zip
+  executor_url: https://github.com/marvin-ai/marvin-engine-executor/archive/master.zip
