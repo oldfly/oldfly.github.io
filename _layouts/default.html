@@ -39,13 +39,13 @@
 
         <aside id="sidebar">
           {% if site.show_downloads %}
-            <a href="https://github.com/marvin-ai/marvin-python-toolbox/archive/master.zip" class="button">
+            <a href="{{ github.toolbox_url }}" class="button">
               <small>Download</small>
-              Marvin-Toolbox.zip file
+              <small>Marvin-Toolbox.zip file</small>
             </a>
-            <a href="https://github.com/marvin-ai/marvin-engine-executor/archive/master.zip" class="button">
+            <a href="{{ github.executor_url }}" class="button">
               <small>Download</small>
-              Marvin-Engine-Executor.zip file
+              <small>Marvin-Engine-Executor.zip file</small>
             </a>
           {% endif %}
 
